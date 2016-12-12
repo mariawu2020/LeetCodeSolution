@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e2c442-6c01-4eea-b84d-cd599ca88972" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -329,6 +328,14 @@
       <option name="presentableId" value="Default" />
       <updated>1481550675907</updated>
     </task>
+    <task id="LOCAL-00001" summary="upload to GitHub">
+      <created>1481552979295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1481552979295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -380,7 +387,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="upload to GitHub" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload to GitHub" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
